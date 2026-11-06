@@ -1,4 +1,4 @@
-# Hola, soy Nicanor 👋
+# Hola, soy Nicanor 
 
 Músico y fotógrafo **aprendiendo a programar**.
 Me interesa el punto donde se cruzan el código, el sonido y la imagen: hacer cosas que suenen, que se vean y que se puedan tocar.
@@ -11,7 +11,7 @@ Me interesa el punto donde se cruzan el código, el sonido y la imagen: hacer co
 
 - **Web:** HTML, CSS y JavaScript
 - **Audio en el navegador:** Web Audio API (osciladores, envolventes, síntesis)
-- **Bases de datos:** SQL y PostgreSQL, con freeCodeCamp
+- **Bases de datos:** SQL y PostgreSQL
 - **Git y GitHub:** commits, repos y publicar con GitHub Pages
 
 ### 🛠️ Proyectos
@@ -19,7 +19,7 @@ Me interesa el punto donde se cruzan el código, el sonido y la imagen: hacer co
 | Proyecto | Qué es |
 |---|---|
 | [Diario de aprendizaje](https://github.com/Nicanor-Al/Nicanor-Al.github.io) | Mi sitio personal: un registro de lo que aprendo, con un mini piano y un generador de paletas de color. |
-| [Universe Database](https://github.com/Nicanor-Al/freecodecamp-universe-database-nic) | Base de datos de cuerpos celestes en PostgreSQL, hecha para freeCodeCamp. |
+| [Universe Database](https://github.com/Nicanor-Al/freecodecamp-universe-database-nic) | Base de datos de cuerpos celestes en PostgreSQL.
 
 ### 🎵📷 Fuera del código
 
@@ -28,6 +28,6 @@ Toco música y saco fotos. Mi idea es ir juntando las tres cosas: herramientas p
 ### 📫 Contacto
 
 <!-- Completá con lo que quieras compartir, por ejemplo: -->
-<!-- - Instagram (fotos): [@tuusuario](https://instagram.com/tuusuario) -->
+(https://www.instagram.com/nicanor.bass/)
 <!-- - Música: [link a tu Bandcamp, SoundCloud o Spotify]() -->
 <!-- - Email: tu@email.com -->
